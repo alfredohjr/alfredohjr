@@ -2,6 +2,7 @@
 
 Olá!!!
 
+<div>
 <canvas id="stage" width="300" height="300"></canvas>
 <hr>
 <p>Ponto:<p id="ponto"></p></p>
@@ -78,3 +79,4 @@ Olá!!!
 
     }
 </script>
+</div>
