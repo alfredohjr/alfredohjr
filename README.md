@@ -12,6 +12,10 @@ I have studing about microservices, the project <a href="https://github.com/alfr
 
 Now, i working in project API.
 
+---
+
+A little about myself.
+
 <details>
   <summary>My top languages</summary>
 
