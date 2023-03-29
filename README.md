@@ -42,11 +42,12 @@ A little about myself.
 <details>
   <summary>My top projects</summary>
 
-| Rank | Name           | Language           | Description                                                       |
-|-----:|----------------|--------------------|-------------------------------------------------------------------|
-|     1|     mySandBoxV5| Python/Django      | Main functions write in python, send email, format excel and more |
-|     2| nextmyportfolio| JavaScript/Nextjs  | My portfolio, all in NextJs                                       |
-|     3|      mytodolist| Flutter            | Study about flutter                                               |
-|     4|     ReadBovespa| Python             | The small script to read data from bovespa                        |
+| Rank | Name            | Language           | Description                                                       |
+|-----:|-----------------|--------------------|-------------------------------------------------------------------|
+|     1| djangotheforcebe| Python/Django      | The small project with a shop aplication backend                  |
+|     2|      mySandBoxV5| Python/Django      | Main functions write in python, send email, format excel and more |
+|     3|  nextmyportfolio| JavaScript/Nextjs  | My portfolio, all in NextJs                                       |
+|     4|       mytodolist| Flutter            | Study about flutter                                               |
+|     5|      ReadBovespa| Python             | The small script to read data from bovespa                        |
 
 </details>
