@@ -6,11 +6,9 @@ Hello! My name is Alfredo and I am a professional with 5 years of experience in 
 
 * :cool: My personal blog <a href="https://www.alfredohjr.com.br" target="_blank">Here</a>
 
-### Now
+## Now
 
-I have studing about microservices, the project <a href="https://github.com/alfredohjr/monoNodeProject">monoNodeProject</a> is about it, first i created de auth app and all apps call the auth API to authenticate users.
-
-Now, i working in project API.
+Next month I will be working on a Flutter application for scheduling tasks, saving information locally, and notifying via push notifications.
 
 ---
 
