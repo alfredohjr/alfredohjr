@@ -6,10 +6,6 @@ Hello! My name is Alfredo and I am a professional with 5 years of experience in 
 
 * :cool: My personal blog <a href="https://www.alfredohjr.com.br" target="_blank">Here</a>
 
-## Now
-
-Next month I will be working on a Flutter application for scheduling tasks, saving information locally, and notifying via push notifications.
-
 ---
 
 A little about myself.
