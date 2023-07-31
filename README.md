@@ -2,7 +2,7 @@
 
 ### About
 
-Hello! My name is Alfredo and I am a professional with 5 years of experience in IT and 2 years focused on programming. During my career, I have had the opportunity to work with some of the leading companies in the sector and develop valuable skills in programming, data extraction, and visualization. I am currently interested in connecting with professionals in my field to exchange ideas and learn from their experiences.
+Hello! My name is Alfredo and I am a professional with 10 years of experience in IT and 2 years focused on programming. During my career, I have had the opportunity to work with some of the leading companies in the sector and develop valuable skills in programming, data extraction, and visualization. I am currently interested in connecting with professionals in my field to exchange ideas and learn from their experiences.
 
 * :cool: My personal blog <a href="https://www.alfredohjr.com.br" target="_blank">Here</a>
 
